@@ -129,7 +129,7 @@ $(window).resize(function(){
 <br>
 
 ## Demo:
-### [Example 1](https://logicshaman.ml/example/1/index.html)  |  [Example 2](https://logicshaman.ml/example/2/index.html)
+### [Sample 1](https://logicshaman.github.io/ResponsiveHelp/1)  |  [Sample 2](https://logicshaman.github.io/ResponsiveHelp/2)
 (Test it by resizing your browser.)
 
 <br>
