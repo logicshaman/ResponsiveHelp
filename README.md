@@ -142,4 +142,4 @@ $(window).resize(function(){
 <br>
 <br>
 
-### Contact: logicshaman@gmail.com | [Facebook](https://www.facebook.com/logicshaman) | +639275657459
+### Contact: logicshaman@gmail.com | [Facebook](https://www.facebook.com/eulrdev) | +639275657459
